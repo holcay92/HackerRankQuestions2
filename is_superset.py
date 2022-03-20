@@ -1,3 +1,4 @@
+#Haldun Halil Olcay
 A = set(map(int, input().split()))
 if not 0 < len(A) < 501: exit("constrain")
 
