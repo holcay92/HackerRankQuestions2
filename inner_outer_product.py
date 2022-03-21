@@ -1,5 +1,6 @@
 #Haldun Halil Olcay
 import numpy
+#not working
 
 A = set(map(int, input().split()))
 
